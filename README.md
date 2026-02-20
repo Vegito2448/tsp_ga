@@ -55,8 +55,8 @@ tsp_ga/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Vegito2448/tsp-ga.git
-cd tsp-ga
+git clone https://github.com/Vegito2448/tsp_ga.git
+cd tsp_ga
 
 # (Opcional) Crear entorno virtual
 python -m venv venv
