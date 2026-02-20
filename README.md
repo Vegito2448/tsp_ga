@@ -8,7 +8,7 @@
 
 ## 📋 Descripción
 
-Este proyecto implementa un **Algoritmo Genético (AG)** para resolver instancias del [Problema del Agente Viajero](https://en.wikipedia.org/wiki/Travelling_salesman_problem) (TSP) utilizando la biblioteca de benchmarks [TSPLIB](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/). Se incluye también la heurística del **Vecino Más Cercano** (Nearest Neighbor) como solución de referencia para comparación.
+Este proyecto implementa un **Algoritmo Genético (AG)** para resolver instancias del [Problema del Agente Viajero](https://en.wikipedia.org/wiki/Travelling_salesman_problem) (TSP). Las instancias utilizadas (`gr17`, `gr21`, `gr24`) fueron obtenidas del repositorio [mastqe/tsplib](https://github.com/mastqe/tsplib/).
 
 ### Características principales
 
